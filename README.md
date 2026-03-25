@@ -6,7 +6,7 @@ A passionate Software Engineer <br>
 🔭 I’m currently studying at Universiti Malaya, UM<br>
 🌱 I’m currently pursuing a formal education in Software Engineering, where I am building a rigorous foundation in Software Development, system design & architecture, AI agent & agentic framework and ML.<br>
 💬 Ask me about: Tech Support<br>
-⚡ Fun fact: I Love Tech, Tech Love me
+
 
 ---
 
